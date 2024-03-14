@@ -1,9 +1,8 @@
-@media (max-width: 600px) {
+@media (min-width: 601px) and (max-width: 950px) {
     .img-text{
         width: 100%;
         padding: 5rem 0 ;
         text-align: center;
-    }
-
-    .txt-dest{}
+        font-size: larger;
+}
 }

@@ -1,3 +1,6 @@
+@import './mobile.css';
+@import './tablet.css';
+@import './deskotp.css';
 
 header {
     display: flex;
@@ -30,7 +33,6 @@ header p {
     color: white;
     font-family: 'Montserrat', Arial;
     float: left;
-    padding: 4rem 8rem 6rem;
 }
 
 .exposition{
