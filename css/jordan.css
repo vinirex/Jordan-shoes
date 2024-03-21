@@ -1,6 +1,6 @@
-@import '/css/deskotp.css';
-@import '/css/tablet.css';
-@import '/css/mobile.css';
+@import './desktop.css';
+@import './css/tablet.css';
+@import './css/mobile.css';
 
 header {
     display: flex;
